@@ -1,9 +1,9 @@
 {
   "metaVendasProdutos": [
    {"id": "1","produto": "Sabonete", "valorMetaMensal":"1000", "dataInicio": "11/10/2015", "dataFinal": "11/09/2011"},
-   {"id": "2","produto": "Creme", "valorMetaMensal":"200", "dataInicio": "11/01/2000", "dataFinal": "20/10/2005"},
+   {"id": "2","produto": "Creme", "valorMetaMensal":"200", "dataInicio": "11/01/2000", "dataFinal": "20/10/2001"},
    {"id": "3","produto": "Sabonete", "valorMetaMensal":"50", "dataInicio": "11/05/2011", "dataFinal": "11/10/2011"},
-   {"id": "4","produto": "Perfume", "valorMetaMensal":"745", "dataInicio": "11/03/2011", "dataFinal": "30/01/2010"}
+   {"id": "4","produto": "Perfume", "valorMetaMensal":"745", "dataInicio": "11/03/2011", "dataFinal": "30/01/2015"}
     
   ]
   
